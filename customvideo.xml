@@ -1,0 +1,11 @@
+<root>
+	<styles>
+		<include src="s2r://panorama/styles\custom_game/display.vcss_c" />
+	</styles>
+
+	<Panel class="TextContainer">
+		<HTML url="https://obscurefreeman.github.io/customvideo/customvideo.mp4" />		
+	</Panel>
+
+
+</root>
